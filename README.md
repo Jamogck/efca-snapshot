@@ -1,3 +1,1 @@
-Created by Codrops
-
-Please read about our license: http://tympanus.net/codrops/licensing/
+An interactive snapshot of EFCA happenings, metrics and mission based loosely off the 2015 [Church Metrics Survey](https://go.efca.org/resources/announcement/annual-church-metrics-survey-results).
