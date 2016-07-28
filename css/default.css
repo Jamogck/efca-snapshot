@@ -30,18 +30,18 @@ html { height: 100%; }
 
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
-    background: #D7D1CB;
+    background: #ECECEC;
     font-weight: 300;
     font-size: 15px;
     color: #333;
-    overflow: scroll;
-    overflow-x: hidden;
+    /*overflow: scroll;*/
+    /*overflow-x: hidden;*/
 }
 
 a {
 	padding-bottom: 1px;
     border-bottom: 1px solid #346094;
-	color: #555;
+	color: #346094;
 	text-decoration: none;
 }
 

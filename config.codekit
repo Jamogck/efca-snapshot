@@ -49,149 +49,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/baton.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 70344,
-		"inputAbbreviatedPath": "\/images\/baton.jpg",
-		"outputAbbreviatedPath": "\/images\/baton.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/collaboration.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24430,
-		"inputAbbreviatedPath": "\/images\/collaboration.png",
-		"outputAbbreviatedPath": "\/images\/collaboration.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/diversity.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18933,
-		"inputAbbreviatedPath": "\/images\/diversity.png",
-		"outputAbbreviatedPath": "\/images\/diversity.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/dynamic.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19572,
-		"inputAbbreviatedPath": "\/images\/dynamic.png",
-		"outputAbbreviatedPath": "\/images\/dynamic.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/gospel.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29419,
-		"inputAbbreviatedPath": "\/images\/gospel.png",
-		"outputAbbreviatedPath": "\/images\/gospel.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/missional.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 46779,
-		"inputAbbreviatedPath": "\/images\/missional.png",
-		"outputAbbreviatedPath": "\/images\/missional.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/positive-change.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29090,
-		"inputAbbreviatedPath": "\/images\/positive-change.png",
-		"outputAbbreviatedPath": "\/images\/positive-change.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/thumbs\/collaboration.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24430,
-		"inputAbbreviatedPath": "\/images\/thumbs\/collaboration.png",
-		"outputAbbreviatedPath": "\/images\/thumbs\/collaboration.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/thumbs\/diversity.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18933,
-		"inputAbbreviatedPath": "\/images\/thumbs\/diversity.png",
-		"outputAbbreviatedPath": "\/images\/thumbs\/diversity.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/thumbs\/dynamic.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19572,
-		"inputAbbreviatedPath": "\/images\/thumbs\/dynamic.png",
-		"outputAbbreviatedPath": "\/images\/thumbs\/dynamic.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/thumbs\/gospel.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29419,
-		"inputAbbreviatedPath": "\/images\/thumbs\/gospel.png",
-		"outputAbbreviatedPath": "\/images\/thumbs\/gospel.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/thumbs\/missional.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 46779,
-		"inputAbbreviatedPath": "\/images\/thumbs\/missional.png",
-		"outputAbbreviatedPath": "\/images\/thumbs\/missional.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/thumbs\/positive-change.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29090,
-		"inputAbbreviatedPath": "\/images\/thumbs\/positive-change.png",
-		"outputAbbreviatedPath": "\/images\/thumbs\/positive-change.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -244,6 +101,37 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/metrics_meta_images_facebook.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 552923,
+		"inputAbbreviatedPath": "\/metrics_meta_images_facebook.jpg",
+		"outputAbbreviatedPath": "\/metrics_meta_images_facebook.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/metrics_meta_images_twitter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 380099,
+		"inputAbbreviatedPath": "\/metrics_meta_images_twitter.jpg",
+		"outputAbbreviatedPath": "\/metrics_meta_images_twitter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/README.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/README.md": {
 		"criticStyle": 0,
